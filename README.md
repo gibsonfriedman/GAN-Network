@@ -16,3 +16,6 @@ $ pip install torch
 $ pip install torchvision
 $ pip install matplotlib
 ```
+
+##Running the code
+Once you have downloaded the .ipynb file you can run this code through Jupyter notebooks or on Google Colab. If running on Colab you won't need the required packages installed. 
